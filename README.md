@@ -1,5 +1,5 @@
-# edgy_board number b123
-This design is part of the [edgy board project](https://github.com/skunkforce/edgy_boards). It provides the functionality of chip XXXX via interfaces YYYY. 
+# edgy_board number b166
+This design is part of the [edgy board project](https://github.com/skunkforce/edgy_boards). It provides 4x HY2212 chips, each of which balances one cell.
 
 ![](/board/board.png)
 
